@@ -688,13 +688,13 @@ TextureImporter:
       name: Acordeon2_20
       rect:
         serializedVersion: 2
-        x: 298
-        y: 198
-        width: 333
+        x: 301
+        y: 200
+        width: 323
         height: 624
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 13, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -710,13 +710,13 @@ TextureImporter:
       name: Acordeon2_21
       rect:
         serializedVersion: 2
-        x: 929
+        x: 938
         y: 201
-        width: 281
+        width: 272
         height: 619
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
